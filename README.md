@@ -6,6 +6,10 @@
 - 📫 Email: jeferson.goncalves.noronha@gmail.com.
 - 🗺️ Natural de Parambu-CE | Morando em Quixadá-CE.
 
+## OverView
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefo3&show_icons=true&theme=radical)
+
+
 <!--
 **jefo3/jefo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
