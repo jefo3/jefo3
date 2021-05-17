@@ -19,7 +19,8 @@
 ## Fale Comigo
 [![Gmail Badge](https://img.shields.io/badge/-jeferson.goncalves.noronha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeferson.goncalves.noronha@gmail.com)](mailto:jeferson.goncalves.noronha@gmail.com)
 
-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/jeferson-gonçalves-7b21b71a7/-c14438?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-gonçalves-7b21b71a7/)](https://www.linkedin.com/in/jeferson-gonçalves-7b21b71a7/)
 
