@@ -9,6 +9,8 @@
 ## OverView
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefo3&show_icons=true&theme=radical)
 
+## Tuor sobre minhas linguagens
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefo3&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jefo3/jefo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
