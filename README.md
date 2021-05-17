@@ -5,6 +5,12 @@
 
 Here are some ideas to get you started:
 
+## Sobre Mim 
+- 📚 Cursando Engenharia de Software na Universidade Federal do Ceará - Campus Quixadá.
+- 💻 Mantenho meu foco e estudos no mundo web.
+- 📫 Email: jeferson.goncalves.noronha@gmail.com.
+- 🗺️ Natural de Parambu-CE | Morando em Quixadá-CE.
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
