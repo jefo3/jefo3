@@ -1,6 +1,8 @@
 ### Hi there Jeferson Gonçalves Noronha Soriano 👋
 
+<!--
 ! [] (https://komarev.com/ghpvc/?username=jefo3)
+-->
 
 ## Sobre Mim 
 - 📚 Cursando Engenharia de Software na Universidade Federal do Ceará - Campus Quixadá.
