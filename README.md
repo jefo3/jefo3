@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefo3&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Fale Comigo
-[![Linkedin Badge](https://img.shields.io/badge/-Jeferson Gonçalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-gon%C3%A7alves-7b21b71a7)](https://www.linkedin.com/in/jeferson-gon%C3%A7alves-7b21b71a7/)
+[![Linkedin Badge](https://img.shields.io/badge/-Jeferson Gonçalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-gon%C3%A7alves-7b21b71a7/)](https://www.linkedin.com/in/jeferson-gon%C3%A7alves-7b21b71a7/)
 [![Gmail Badge](https://img.shields.io/badge/-jeferson.goncalves.noronha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeferson.goncalves.noronha@gmail.com)](mailto:jeferson.goncalves.noronha@gmail.com) 
 
 <!--
