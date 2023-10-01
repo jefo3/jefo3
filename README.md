@@ -5,13 +5,10 @@
 -->
 
 ## Sobre Mim 
-- 📚 Cursando Engenharia de Software na Universidade Federal do Ceará - Campus Quixadá.
+- 📚 Formado em Engenharia de Software na Universidade Federal do Ceará - Campus Quixadá.
 - 💻 Mantenho meu foco e estudos no mundo web.
 - 📫 Email: jeferson.goncalves.noronha@gmail.com.
 - 🗺️ Natural de Parambu-CE | Morando em Quixadá-CE.
-
-## OverView
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefo3&show_icons=true&theme=radical)
 
 ## Linguagens
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefo3&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
